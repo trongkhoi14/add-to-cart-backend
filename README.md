@@ -7,7 +7,9 @@
 The current version of the application has been deployed and can be accessed at: 
 https://add-to-cart-backend.onrender.com.
 
-To test the APIs of the deployed application, import the file 'shopping_deployed.postman_collection.json' into Postman.
+You can test the APIs of the deployed application at: https://add-to-cart-backend.onrender.com/api/api-docs
+
+Another method to test the APIs of the deployed application is to import the file 'shopping_deployed.postman_collection.json' into Postman. This collection contains pre-configured requests to interact with the deployed APIs.
 
 ### Run the application at your local
 - Clone this repository

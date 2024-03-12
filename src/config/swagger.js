@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: `http://localhost:${process.env.PORT || 8081}`,
+        url: `https://add-to-cart-backend.onrender.com/api/v1`,
       },
     ],
   },
